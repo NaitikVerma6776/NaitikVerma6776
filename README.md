@@ -19,10 +19,10 @@
 
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,react,mysql,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,mysql,git,github,vscode)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=typescript,nodejs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,react,figma)](https://skillicons.dev)
 
 
 

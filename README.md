@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,mysql,git,github,html,css)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,react,figma,ai)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=typescript,nodejs,react,figma,ai,javascript)](https://skillicons.dev)
 
 
 

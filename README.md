@@ -46,8 +46,27 @@
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/naitik-verma-36601a381">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-   
+   <div align="center">
+
+  <a href="https://www.linkedin.com/in/naitik-verma-36601a381" target="_blank">
+    <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/NaitikVerma6776" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/exorcist_vr" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="35" height="35"/>
+  </a>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=150&section=footer" alt="footer"/>

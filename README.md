@@ -14,11 +14,8 @@
 
 
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,mysql,git,github,html,css)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=react,javascript,ai,figma)](https://skillicons.dev)
+### Tech stacka & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,mysql,git,html,css,javascript,ai)](https://skillicons.dev)
 
 
 <h2 align="center">📊 GitHub Stats</h2>

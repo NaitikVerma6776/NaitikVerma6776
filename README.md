@@ -14,7 +14,7 @@
 
 
 
-### Tech stacka & Tools
+### Tech stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,mysql,git,html,css,javascript,ai)](https://skillicons.dev)
 
 

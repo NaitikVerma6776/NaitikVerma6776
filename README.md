@@ -64,6 +64,11 @@
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="35" height="35"/>
   </a>
 
+  <a href="https://x.com/naitikvr_" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" alt="X" width="35" height="35"/>
+</a>
+&nbsp;&nbsp;
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&height=150&section=footer" alt="footer"/>

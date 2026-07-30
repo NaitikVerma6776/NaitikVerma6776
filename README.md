@@ -15,7 +15,7 @@
 
 
 ### Tech stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,mysql,git,html,css,javascript,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,html,css)](https://skillicons.dev)
 
 
 <h2 align="center">📊 GitHub Stats</h2>

@@ -50,7 +50,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:naitikverma5207@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail" alt="Email" width="35" height="35"/>
   </a>
   &nbsp;&nbsp;
@@ -60,7 +60,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://instagram.com/exorcist_vr" target="_blank">
+  <a href="https://instagram.com/naitikvr_" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="35" height="35"/>
   </a>
 

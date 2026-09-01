@@ -14,32 +14,7 @@
 
 
 
-### Tech stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,git,html,css)](https://skillicons.dev)
 
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<br/>
-
-<table align="center" style="border:none;">
-  <tr style="border:none;">
-    <td align="center" style="border:none; background:none;">
-      <img src="https://github-readme-stats-zeta-sepia-19.vercel.app/api?username=NaitikVerma6776&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border:none; background:none;">
-      <img src="https://streak-stats.demolab.com/?user=NaitikVerma6776&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<h2 align="center"></h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaitikVerma6776&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 ### Connect with me!
 <div>
